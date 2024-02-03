@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.darktheme{
+  background-color: rgb(29, 29, 29);
+  color: white;
+}
+
+.lighttheme{
+  background-color: white;
+  color: black;
+}
